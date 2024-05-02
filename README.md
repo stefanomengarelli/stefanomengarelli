@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Stefano 👋
+Involved in the IT sector for over twenty years. Expert in consultancy, design and development of software products in the sectors of advanced libraries for software development, graphic interfaces, databases, management software, web sites and applications, CRM, ERP, production planning and control, access, attendance, construction site safety , construction site accounting, training, distance learning platforms (FAD), document archiving, IT security, multimedia applications and liquid music.
 <!--
 **stefanomengarelli/stefanomengarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
